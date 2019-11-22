@@ -1,9 +1,15 @@
 var nguoiDungService = new NguoiDungService();
 
+<<<<<<< HEAD
+  function themNguoiDungTest(){
+    console.log("them nguoi dung lan 2");
+  }
+=======
 
 function themNguoiDungTest(){
   console.log("them nguoi dung");
 }
+>>>>>>> master
 getListUser();
 
 getEle("btnThemNguoiDung").addEventListener("click", function() {
